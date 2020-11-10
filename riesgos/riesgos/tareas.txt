@@ -1,0 +1,9 @@
+//TAREAS:
+// Corregir la vista historial para que tome los valores del rango de la base de DATOS
+// Crear una vista en la que se pueda visualizar el listado de procesos con sus
+// respectivos niveles de exposicion
+// En calificacion agregar el atributo rango en el alta
+
+
+Control + Shift + D -> Copiar linea actual
+https://www.taringa.net/posts/ciencia-educacion/19058112/A-programar-Mira-de-lo-que-es-capaz-este-gran-editor-Atom.html
